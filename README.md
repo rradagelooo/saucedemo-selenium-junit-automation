@@ -20,4 +20,4 @@ Seluruh dokumen perencanaan dan pelaporan pengujian tersedia pada folder [`docs/
 * **Test Case Specification:** Rincian langkah pengujian, *test data*, *expected result*, dan status eksekusi.
 
 ## Hasil Eksekusi (JUnit 5)
-![JUnit Execution Result](docs/junit-execution-result.png)
+![JUnit Execution Result](docs/JUnit_Execution_Result.png)
